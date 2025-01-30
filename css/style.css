@@ -3,6 +3,10 @@ h1{
     font-size: 20px;
 }
 
-#home {
+.home {
     color: blue;
+}
+
+body {
+    background-color: lightblue;
 }
