@@ -1,2 +1,8 @@
 testando 
 alteração 24234
+enviando função b
+repo02
+arq a.txt
+alterando
+função 
+b
